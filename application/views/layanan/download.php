@@ -35,7 +35,7 @@
                                             Surat Permohonan Domain Desa
                                         </td>
                                         <td><a
-                                                href="https://layanankominfo.purbalinggakab.go.id/wp-content/uploads/2020/04/contoh-surat-permohonan-domain-desa-id.pdf"><i
+                                                href="https://drive.google.com/file/d/1G1IAtA39J9gp-SAd4QyOUQLqgkCjtgIq/view?usp=sharing"><i
                                                     class="bi bi-cloud-arrow-down fs-5"></i></a>
                                         </td>
                                     </tr>
@@ -43,7 +43,7 @@
                                         <th scope="row">2</th>
                                         <td class="text-capitalize fs-6">contoh surat permohonan hosting</td>
                                         <td><a
-                                                href="https://layanankominfo.purbalinggakab.go.id/wp-content/uploads/2020/04/contoh-surat-permohonan-hosting.pdf"><i
+                                                href="https://drive.google.com/file/d/1xpDJCGyBFPZVaPWEBgNlMieUOvl1xj7T/view?usp=sharing"><i
                                                     class="bi bi-cloud-arrow-down fs-5"></i></a>
                                         </td>
                                     </tr>
@@ -51,7 +51,7 @@
                                         <th scope="row">3</th>
                                         <td class="text-capitalize fs-6">contoh surat kuasa kepada admin</td>
                                         <td><a
-                                                href="https://layanankominfo.purbalinggakab.go.id/wp-content/uploads/2020/04/contoh-surat-kuasa-kepada-admin.pdf"><i
+                                                href="https://drive.google.com/file/d/1vMcNXMittlfMxXPEQRkBfq7t0H7KaiHA/view?usp=sharing"><i
                                                     class="bi bi-cloud-arrow-down fs-5"></i></a></td>
                                     </tr>
                                 </tbody>
