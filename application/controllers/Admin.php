@@ -111,7 +111,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('KTP ', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('website_desa');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/webdesa';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/webdesa';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
@@ -215,7 +215,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('sk', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('hak_akses_website');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/hakaksesweb';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/hakaksesweb';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
@@ -298,7 +298,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('sk', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('hak_akses_matur_bupati');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/maturbup';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/maturbup';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
@@ -385,7 +385,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('surat_permohonan', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('fasilitas_inter_wifi');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/fasinter';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/fasinter';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
@@ -465,7 +465,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('surat_permohonan', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('fasilitas_inter_wifi');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/fasvideo';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/fasvideo';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
@@ -542,7 +542,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('riwayat', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('aduan_pengelolaan_website');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/aduanweb';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/aduanweb';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
@@ -594,7 +594,7 @@ class Admin extends CI_Controller {
         $this->db->or_like('riwayat', $data['keyword']);
         $this->db->or_like('status', $data['keyword']);
         $this->db->from('aduan_infrastruktur_jaringan_inter');
-        $config['base_url'] = 'http://localhost/layanankominfo/admin/aduaninter';
+        $config['base_url'] = 'https://layanankominfo.purbalinggakab.go.id/admin/aduaninter';
         $config['total_rows'] = $this->db->count_all_results();
         $config['per_page'] = 10;
 
